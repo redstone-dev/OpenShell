@@ -1,4 +1,4 @@
-Latest revision: Rev 1C.1 on 11/30/2020 at 8:01
+Latest revision: Rev 1C on 11/30/2020 at 8:01
 
 # OpenShell
 An open-source shell scripting language. Licensed under the GNU AGPLv3 license.
